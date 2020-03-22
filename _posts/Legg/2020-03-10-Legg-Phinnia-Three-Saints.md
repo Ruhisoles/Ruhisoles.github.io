@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 芬尼亚，三圣临门
-categories: [中文小说, 莱戈]
+categories: [中文小说, 作者：莱戈]
 description: 芬尼亚，三圣临门
-keywords: 中文, 小说, 莱戈
+keywords: 中文, 小说, 作者：莱戈
 ---
 
 三圣临门
