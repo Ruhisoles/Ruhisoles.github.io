@@ -14,7 +14,7 @@ layout: default
           </span>
           {% endif %}
 		  <span class="meta-info">
-		  { { content | strip_html | strip_newlines | size } } <span>字</span>
+		  {{ content | strip_html | strip_newlines | size }} <span>words</span>
 		  </span>
           {% for cat in page.categories %}
           <span class="meta-info">
