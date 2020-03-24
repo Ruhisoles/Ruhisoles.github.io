@@ -16,7 +16,7 @@ permalink: /categories/
 		{% assign wordCount = post.content | strip_html | strip_newlines | size %}
 		{% assign wordCountSum = wordCountSum | plus: wordCount %}
 	{% endfor %}
-	<h3 id="{{ category[0] }}">{{ category | first }} {{ wordCountSum }} words</h3>
+	<h3 id="{{ category[0] }}">{{ category | first }} {{ wordCountSum }} 字</h3>
 	<ol class="posts-list">
 	{% for post in category.last %}
 	<li class="posts-list-item">
