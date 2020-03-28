@@ -88,4 +88,4 @@ keywords: 中文, 小说, 穿越帝国
 
 杨慈炫想到，也许光明教真正能为人们指引光明。
 
-##### [上一章](/2020/03/25/TimeTravellerEmpire-2-2/) | 暂时没有下一章
+##### [上一章](/2020/03/25/TimeTravellerEmpire-2-2/) | [下一章](/2020/03/28/TimeTravellerEmpire-2-4)
