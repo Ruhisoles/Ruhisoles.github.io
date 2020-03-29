@@ -118,4 +118,4 @@ keywords: 中文, 小说, 穿越帝国
 
 苏维涅：“臣暂且不能确定。”
 
-##### [上一章](/2020/03/28/TimeTravellerEmpire-2-4/) | 暂时没有下一章
+##### [上一章](/2020/03/28/TimeTravellerEmpire-2-4/) | [下一章](/2020/03/29/TimeTravellerEmpire-2-6/)
