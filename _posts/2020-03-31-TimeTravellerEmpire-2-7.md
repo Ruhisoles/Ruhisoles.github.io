@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 穿越帝国，第二卷，第
+title: 穿越帝国，第二卷，第七章，神武东游
 categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第二卷
 keywords: 中文, 小说, 穿越帝国
