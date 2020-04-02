@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A most memorable travel
+title: A Most Memorable Trip
 categories: [English Novel]
-description: A most memorable travel
+description: A Most Memorable Trip
 keywords: English, Novel
 ---
 
