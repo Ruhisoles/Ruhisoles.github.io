@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 金仙重生，第五章，
+title: 金仙重生，第五章，栽赃陷害
 categories: [中文小说, 金仙重生, 修仙]
 description: 金仙重生
 keywords: 中文, 小说, 修仙, 金仙重生
