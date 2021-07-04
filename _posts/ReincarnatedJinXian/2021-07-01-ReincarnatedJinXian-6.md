@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 金仙重生，第六章，
+title: 金仙重生，第六章，遭遇劫杀
 categories: [中文小说, 金仙重生, 修仙]
 description: 金仙重生
 keywords: 中文, 小说, 修仙, 金仙重生
