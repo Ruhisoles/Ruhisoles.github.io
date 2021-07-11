@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 生与永恒（重制版），伊特奈尔四
+title: 生与永恒，伊特奈尔四
 categories: [中文小说, 英雄无敌世界]
 description: 生与永恒（重制版）
 keywords: 中文, 小说, 英雄无敌世界, 生与永恒
